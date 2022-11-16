@@ -4,4 +4,4 @@
 - 👀 Team Support
 - 👀 Technical development processes optimization
 - 👀 And many other
-- Almost forget. I've made a super reliable and fast application using Python and Flusk.
+- Almost forget. I've made a super reliable and fast application using Python and Flask.
